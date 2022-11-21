@@ -1,0 +1,10 @@
+Commit - Adicionar arquivos no repositório:
+
+ - Comandos
+git add .  => todos os arquivos, não inclusos, serão adicionados
+			ao controle de versão
+git commit -m "msg a ser escrita"  =>os arquivos serão commitados 
+			para a nuvem - ainda não está atualizado no 
+			repositório
+git push origin main => enviará os commits para a nuvem e atualizará
+			o repositório no GitHub
