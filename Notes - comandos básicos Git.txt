@@ -1,0 +1,29 @@
+Comandos Basicos Git / GitHub
+
+*todos os comandos são minusculos*
+
+DIR (Windows) / LS (linux) => Lista os diretórios/pastas existentes
+			na pasta
+CD 	=> permite a navegação entre as pastas
+CD /  => abre a raiz C:
+CD |nome| => abre a pasta |nome|
+CD .. => retrocede 1 pasta - volta para local anterior
+
+CLS (Windows) / CLEAR (linux) =>limpa a tela
+CTL+L (Hit)  => limpa a tela
+
+TAB (teclado) => auto-completa o nome de uma pasta/arquivo quando
+			digita as primeiras letras do nome
+
+MKDIR  => cria uma pasta
+	MKDIR |work| => criará uma pasta com nome "work"
+
+ECHO => cria um arquivo
+	ECHO |work| => criará um arquivo com nome "work"
+	*pode-se adicionar a extensão do arquivo, exemplo .txt
+
+DEL |nome| => apaga o conteudo da pasta |nome|
+
+RMDIR |nome| => apaga o conteudo e a pasta |nome|
+
+Seta para cima (Arrow up) => volta os comandos anteriores utilizados
